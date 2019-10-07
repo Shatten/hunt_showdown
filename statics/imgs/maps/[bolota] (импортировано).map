@@ -6,5 +6,6 @@
 <!-- #$-:Please do not edit lines starting with "#$" -->
 <!-- #$VERSION:2.3 -->
 <!-- #$AUTHOR:Shatten -->
-<area shape="poly" coords="3,3,188,2,188,168,6,227,4,5" href="test" />
+<area shape="poly" coords="3,3,185,4,184,167,6,227,4,5" href="test" />
+<area shape="poly" coords="189,4,186,166,270,209,380,97,381,2"  nohref="nohref" />
 </map>
