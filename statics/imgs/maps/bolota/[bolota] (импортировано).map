@@ -1,0 +1,23 @@
+<img src="[bolota] (импортировано)" width="781" height="781" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:Shatten -->
+<area shape="poly" coords="382,2,379,97,451,199,544,222,588,172,544,1" target="port_riker"  nohref="nohref" />
+<area shape="poly" coords="543,2,588,172,779,169,778,4" target="gibloe"  nohref="nohref" />
+<area shape="poly" coords="3,227,186,165,270,211,300,287,251,432,138,487,3,478" target="kladbiche"  nohref="nohref" />
+<area shape="poly" coords="270,211,380,95,452,200,366,296,302,286" target="skotnyi"  nohref="nohref" />
+<area shape="poly" coords="366,296,428,398,568,330,545,223,450,197" target="ferma"  nohref="nohref" />
+<area shape="poly" coords="570,327,543,223,591,171,778,169,778,452" target="chasovnya"  nohref="nohref" />
+<area shape="poly" coords="252,432,299,285,365,297,431,394,422,465,347,463" target="vervh"  nohref="nohref" />
+<area shape="poly" coords="422,466,431,395,567,328,777,452,778,580,566,572" target="izluchina"  nohref="nohref" />
+<area shape="poly" coords="3,480,140,488,201,631,99,778,3,779" target="rocha"  nohref="nohref" />
+<area shape="poly" coords="100,778,347,778,356,653,318,622,202,626" target="davanta"  nohref="nohref" />
+<area shape="poly" coords="200,628,318,623,345,463,252,433,138,485" target="crematoriy"  nohref="nohref" />
+<area shape="poly" coords="319,625,354,653,540,651,565,569,423,464,345,463,332,542" target="cerkov"  nohref="nohref" />
+<area shape="poly" coords="356,653,542,650,630,777,346,778" target="skotoboinya"  nohref="nohref" />
+<area shape="poly" coords="542,652,565,569,778,579,780,777,630,780" target="somovaya"  nohref="nohref" />
+</map>
